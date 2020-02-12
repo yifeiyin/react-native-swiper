@@ -15,7 +15,7 @@ import {
   ActivityIndicator
 } from 'react-native'
 
-import ViewPager from 'react-native-community/react-native-viewpager'
+import ViewPager from 'react-native-community/viewpager'
 
 /**
  * Default styles
